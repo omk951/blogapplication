@@ -125,7 +125,7 @@ $result=mysqli_query($conn,$sql);
 	
 			
 				<div class="section-title text-center">
-					<h3>User Login</h3>
+					<h3>Guest Login</h3>
 					
 				</div>
 				<form class="comment-form --contact">
